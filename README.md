@@ -143,9 +143,6 @@ Once this data is uploaded or loaded by default, the dashboard enables users to:
 
 ---
 
-
-➡️ [Download revenue_leak_data.csv](https://revanue-leak-detector.streamlit.app/sample-data)
-
 This file includes 5,000+ synthetic e-commerce transactions with structured fields for refunds, payments, discounts, and funnel analysis.
 
 ## 🧠 Credits
