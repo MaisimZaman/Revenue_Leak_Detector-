@@ -5,7 +5,8 @@ A full-featured business intelligence dashboard built with **Streamlit** to dete
 ▶️ **Live Demo**: [revanue-leak-detector.streamlit.app](https://revanue-leak-detector.streamlit.app)
 🔗 **GitHub Repo**: [Revenue Leak Detector](https://github.com/MaisimZaman/Revenue_Leak_Detector-)
 
----
+![image](https://github.com/user-attachments/assets/3b3b9b6c-395e-44b9-ad85-fb8f3372cae9)
+
 
 ## 📋 What the Project Does (Expanded)
 
@@ -27,33 +28,31 @@ It provides clear visual insights, actionable metrics, and a revenue recovery si
 ## 📷 Screenshots
 
 
-> ⚠️ Add these image files into the `images/` directory of your repo and replace placeholder text accordingly.
-
 ### 1. Overview and Filtering Panel
 ![image](https://github.com/user-attachments/assets/e5bff527-15bf-44d1-8314-50b18f5af0cf)
 
-🖼️ `images/overview_filters.png`
-📍 Show sidebar filters with dropdowns and the transaction table preview
 
 ### 2. Funnel Breakdown
-🖼️ `images/funnel_breakdown.png`
-📍 Funnel chart showing drop-offs and revenue lost metric
+![image](https://github.com/user-attachments/assets/d2c229c4-f510-42b7-901b-0d5aac2a3e93)
+
 
 ### 3. Refund & Discount Analysis
-🖼️ `images/refund_abuse.png`
-📍 Bar chart of discounts in refunded orders, top refunders table
+![image](https://github.com/user-attachments/assets/f80d0ab2-4b3f-4484-9bdb-1534ed16da57)
+
+
+
 
 ### 4. Failed Payment Insights
-🖼️ `images/payment_failures.png`
-📍 Failed payments by region and payment method + revenue lost
+![image](https://github.com/user-attachments/assets/f6d327e1-438c-4997-863d-0321224cf05a)
+
 
 ### 5. Revenue Recovery Simulator
-🖼️ `images/recovery_simulator.png`
-📍 Slider inputs on sidebar + recovered revenue KPIs
+![image](https://github.com/user-attachments/assets/7e4e1f65-9543-44a7-9123-5d2a1f8e74be)
+
 
 ### 6. Export Tool
-🖼️ `images/export_tool.png`
-📍 CSV download section with button visible
+![image](https://github.com/user-attachments/assets/f7531c70-d66c-44d5-b9e1-acbb74428d27)
+
 
 ---
 
