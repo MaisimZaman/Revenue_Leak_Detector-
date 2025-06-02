@@ -26,9 +26,12 @@ It provides clear visual insights, actionable metrics, and a revenue recovery si
 
 ## 📷 Screenshots
 
+
 > ⚠️ Add these image files into the `images/` directory of your repo and replace placeholder text accordingly.
 
 ### 1. Overview and Filtering Panel
+![image](https://github.com/user-attachments/assets/e5bff527-15bf-44d1-8314-50b18f5af0cf)
+
 🖼️ `images/overview_filters.png`
 📍 Show sidebar filters with dropdowns and the transaction table preview
 
